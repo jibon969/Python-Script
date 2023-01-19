@@ -1,0 +1,228 @@
+id,title,brand,price,old_price,weight
+22,"The Body Shop Body Butter Berry Bon Bon, 200ML",6,1000,1650,200 ML
+23,"The Body Shop Body Butter Coconut, 200ML",6,1000,1650,200 ML
+24,"The Body Shop Lip Butter Coconut, 10ML",6,330,495,10 ML
+25,"The Body Shop Body Butter Strawberry, 200ML",6,1000,1650,200 ML
+26,"The Body Shop Almond Milk & Honey Shower Cream, 250ML",6,450,550,250 ML
+27,"The Body Shop Vitamin C Glow boosting moisturizer, 50ML",6,1600,2100,50 ML
+28,"The Body Shop Vitamin C skin boost (serum), 30ML",6,1350,2000,30 ML
+29,"The Body Shop Vitamin C Daily glow (face wash), 125ML",6,1200,1600,125 ML
+30,"The Body Shop Vitamin C SPF 30, 50ML",6,1100,1650,50 ML
+31,"The Body Shop Drops Of Light Brightening Serum, 30ML",6,2100,2860,30 ML
+32,"The Body Shop Drops Of Light Brightening Day Cream, 50ML",6,2000,2420,50 ML
+33,"The Body Shop Drops of Light Pure Resurfacing Liquid Peel, 145ML",6,1650,2000,145 ML
+34,"The Body Shop Drops of Light Pure Healthy Brightening Eye Cream, 15ML",6,1750,2200,15 ML
+35,"The Body Shop Drops of youth Youth Gentle foaming wash, 150ML",6,900,1045,150 ML
+36,"The Body Shop Drops of Youth Youth Concentrate, 30ML",6,2200,2850,30 ML
+37,"The Body Shop Drops of Youth Cream, 50ML",6,2000,2400,50 ML
+38,"The Body Shop Himalyan Charcol Mask, 75ML",6,1900,2100,75 ML
+39,"The Body Shop Tea tree Oil, 10ML",6,850,1000,10 ML
+40,"The Body Shop Seaweed Facial Cleansing, 100ML",6,980,1300,100 ML
+41,"The Body Shop Tea Tree 3 in1 Scrub Mask, 125ML",6,920,935,125 ML
+42,"The Body Shop Tea Tree Anti Imperfection Daily Solution, 50ML",6,1500,1600,50 ML
+43,"The Body Shop Seaweed Face wash (gel), 125ML",6,950,1250,125 ML
+44,"The Body Shop Seaweed Toner, 250ML",6,1000,1200,250 ML
+45,"The Body Shop Seaweed Moisturizer Gel Cream, 50ML",6,1200,1450,50 ML
+46,"The Body Shop Tea Tree Anti Imperfection Night Mask, 75ML",6,1300,1800,75 ML
+47,"The Body Shop Tea Tree BB Cream Shade 1, 40ML",6,750,1030,40 ML
+48,"The Body Shop Seaweed Overnight Gel, 30ML",6,1050,1500,30 ML
+49,"The Body Shop Tea Tree BB Cream Shade 2, 40ML",6,750,1030,40 ML
+50,"The Body Shop Tea Tree Facial Wash, 250ML",6,1000,1020,250 ML
+51,"The Body Shop Tea tree Mattifying Lotion, 50ML",6,900,1080,50 ML
+52,"The Body Shop Tea Tree Skin Clearing Clay Mask, 100ML",6,1000,1220,100 ML
+53,"The Body Shop Fuji Green Tea Body butter, 200ML",6,1000,1650,200 ML
+54,"The Body Shop Tea Tree Squeaky Clean Scrub, 100ML",6,750,940,100 ML
+55,"The Body Shop Tea Tree Toner, 250ML",6,900,1200,250 ML
+56,"The Body Shop Moringa Body butter, 200ML",6,1000,1650,200 ML
+57,"The Body Shop Pink Grapefruit Body butter,  200ML",6,1000,1650,200 ML
+58,"The Body Shop Vitamin E Toner, 250ML",6,900,1450,250 ML
+59,"The Body Shop Vitamin E Night Cream, 50ML",6,1200,1450,50 ML
+60,"The Body Shop Vitamin E Moisture Cream 48H, 50ML",6,1200,1450,50 ML
+61,"The Body Shop Vanilla Marshmallow Body butter, 200ML",6,1000,1650,200 ML
+62,"The Body Shop Vitamin E Moisture Cream 48H gel, 50ML",6,1100,1450,50 ML
+63,"The Body Shop Olive Body Scrub, 250ML",6,1000,1650,250 ML
+64,"The Body Shop Wild Argan Body Scrub, 250ML",6,1000,1650,250 ML
+65,"The Body Shop Shea Body Scrub, 250ML",6,1000,1650,250 ML
+66,"The Body Shop Vitamin E Eye Cream, 15ML",6,900,1200,15 ML
+67,"The Body Shop Vitamin E Day Lotion Spf30, 30ML",6,1045,2000,50 ML
+68,"The Body Shop Shampoo Ginger, 250ML",6,1150,1200,250 ML
+69,"The Body Shop Shampoo Banana, 250ML",6,1000,1300,250 ML
+70,"The Body Shop Banana Conditioner, 250ML",6,850,1300,250 ML
+71,"The Body Shop Fuji Green Tea Conditioner, 250ML",6,800,1200,250 ML
+72,"The Body Shop Himalayan Charcoal Purifying Glow Mask, 75ML",6,1750,2650,75 ML
+73,"Anafeli Lipstick Shade 10, 7ML",10,350,450,7 ML
+74,"M.A.C Studio Fix Powder Plus Foundation- NC 30, 15gm",3,3250,3800,15 gm
+75,"Anafeli Paris Lipstick 02, 7ML",10,350,450,7 ML
+76,"Anafeli Paris Lipstick 03, 7ML",10,350,450,7 ML
+77,"M.A.C Studio Fix Powder Plus Foundation- NC 35, 15gm",3,3250,3800,15 gm
+78,"Anafeli Paris Lipstick 04, 7ML",10,350,450,7 ML
+79,"M.A.C Studio Fix Powder Plus Foundation- NC 25, 15gm",3,3250,3800,15 gm
+80,"Anafeli Paris Lipstick 05, 7ML",10,350,450,7 ML
+81,"Anafeli Lipstick Shade 11, 7ML",10,350,450,7 ML
+82,"M.A.C Studio Fix Powder Plus Foundation- NC 40, 15gm",3,3250,3800,15 gm
+83,"Anafeli Lipstick Shade 13, 7ML",10,350,450,7 ML
+84,"Anafeli Lipstick Shade 14, 7ML",10,350,450,7 ML
+85,"Nior Lipstick 10, 4ML",5,310,450,4 ML
+86,"Nior Lipstick 11, 4ML",5,310,450,4 ML
+87,"Nior Lipstick 02, 4ML",5,310,450,4 ML
+88,"Nior Lipstick 04, 4ML",5,310,450,4 ML
+89,"Nior Lipstick 05, 4ML",5,310,450,4 ML
+90,"Nior Lipstick 06, 4ML",5,310,450,4 ML
+91,"Nior Lipstick 18, 4ML",5,310,450,4 ML
+92,"Nior Lipstick 19, 4ML",5,310,450,4 ML
+93,"Nior Lipstick 20, 4ML",5,310,450,4 ML
+94,"Nior Lipstick 16, 4ML",5,310,450,4 ML
+95,"MAC Lipstick Mehr, 3gm",3,1900,2200,3 gm
+96,"MAC Lipstick Ruby Woo, 3gm",3,1900,2200,3 gm
+97,"The Body Shop Indian Night Jasmine Fragrance Mist, 100ML",6,800,1100,100 ML
+98,"The Body Shop Japanese Cherry Blossom Fragrance Mist, 100ML",6,800,1100,100 ML
+99,"M.A.C Studio Fix Fluid SPF 15 Foundation- NC 25, 30ML",3,3250,4000,30 ML
+100,"MAC Lipstick All Fired Up, 3GM",3,1900,2200,3 GM
+101,"The Body Shop Moringa Body Mist, 100ML",3,800,1100,100 ML
+102,"M.A.C Studio Fix Fluid SPF 15 Foundation- NC 35, 30ML",3,3250,4000,30 ML
+103,"The Body Shop Moringa Milk Body Milk, 250ML",6,960,1300,250 ML
+104,"The Body Shop Moringa Shower Gel, 250ML",6,450,800,250 ML
+105,"M.A.C Studio Fix Fluid SPF 15 Foundation- NC 30, 30ML",3,3250,4000,30 ML
+106,"M.A.C Studio Fix Fluid SPF 15 Foundation- NC 37, 30ML",3,3250,4000,30 ML
+107,"The Body Shop Sun Screen SPF 50, 50ML",6,1550,1800,50 ML
+108,"M.A.C Studio Fix Fluid SPF 15 Foundation- NC 40, 30ML",3,3250,4000,30 ML
+109,"The Body Shop White Musk Eau De Parfum, 50ML",6,2600,3500,50 ML
+110,"M.A.C Studio Fix Fluid SPF 15 Foundation- NC 42, 30ML",3,3250,4000,30 ML
+111,"The Body Shop White Musk Body Mist, 100ML",6,800,1100,100 ML
+112,"The Body Shop Wild Argan Shower Gel, 250ML",6,450,650,250 ML
+113,"The Body Shop Wild Argan Shower Gel, 250ML",6,450,650,250 ML
+114,"MAC Lipstick Diva, 3gm",3,1900,2200,3 gm
+115,"MAC Lipstick Fall In Love, 3gm",6,1900,2200,3 gm
+116,"MAC Lipstick Flat Out Fabulous, 3gm",3,1900,2200,3 gm
+117,"Mac Lipstick Mini Chili, 1.8gm",3,1200,1400,1.8 gm
+118,Anastasia Beverly Hills Prism Eyeshadow Palette,9,4900,5500,450 gm
+119,Anastasia Beverly Hills Soft Glam Eyeshadow Palette,9,4900,5500,450 ML
+120,Anastasia Beverly Hills Sultry Eyeshadow Palette,9,5200,6000,450 gm
+121,Urban Decay Naked Eyeshadow Palette,9,5600,6500,450 gm
+122,Urban Decay Born to Run Eyeshadow Palette,7,4900,5500,450 gm
+123,"The Body Shop Born Lippy Pot Lip Balm Raspberry, 10ML",6,350,450,10 ML
+124,"The Body Shop Born Lippy Pot Lip Balm Strawberry, 10ML",6,350,450,10 ML
+125,"The Body Shop Born Lippy Pot Lip Balm Watermelon, 10ML",6,350,450,10 ML
+126,The Body Shop Lotion Strawberry 250 ML,6,940,1400,250 ML
+127,The Body Shop White Musk Smooth Satin Body Lotion 250ML,6,900,1400,250 ML
+130,The Body Shop Ginger Shampoo 400ML,6,1400,1900,400 ML
+134,"MAC Lipstick Taupe,3GM",3,1900,2200,3 GM
+136,"MAC Lipstick Candy Yum Yum,3GM",3,1900,2200,3 GM
+137,"MAC Lipstick Chili,3GM",,1900,2200,3 GM
+138,"MAC Lipstick Fast Play,3GM",3,1900,2200,3 GM
+139,"MAC Lipstick Impulsive,3GM",3,1900,2200,3 GM
+140,"MAC Lipstick Lustering,3GM",3,1900,2200,3 GM
+141,"MAC Lipstick Mac Red,3GM",3,1900,2200,3 GM
+142,"MAC Lipstick Mocha,3GM",3,1900,2200,3 GM
+144,"MAC Lipstick Rebel,3GM",3,1900,2200,3 GM
+145,"MAC Lipstick Russian Red,3GM",3,1900,2200,3 GM
+146,"MAC Lipstick Sea Sheer,3GM",3,1900,2200,3 GM
+147,"MAC Lipstick Shocking Revelation,3GM",3,1900,2200,3 GM
+148,"MAC Lipstick Snob,3GM",3,1900,2200,3 GM
+149,"MAC Lipstick Style Shocked,3GM",3,1900,2200,3 GM
+150,"MAC Lipstick Twig,3GM",3,1900,2200,3 GM
+151,"MAC Lipstick Velvet Teddy,3GM",3,1900,2200,3 GM
+152,"MAC Lipstick Verve,3GM",3,1900,2200,3 GM
+153,"MAC Lipstick Mini Chili,1.8GM",3,1200,1400,1.8 GM
+154,"MAC Lipstick Mini Snob,1.8GM",3,1200,1400,1.8 GM
+155,"MAC Lipstick Mini Tropic Tonic,1.8GM",3,1200,1400,1.8 GM
+156,"Makeup Revolution 196 Colour Spectrum Palette, 176.4 G",8,2100,2600,176.4 G
+165,"Anafeli Lipstick n ° 09C - Color Cherry red,3GM",10,100,450,3 GM
+170,"Anafeli Lipstick n ° 14C - Color Plum,3GM",10,100,450,3 GM
+172,"Anafeli Lipstick n ° 16C - Color Orange red,3GM",10,100,450,3 GM
+183,"Anafeli Lipstick n ° 27C - Color Nude,3GM",10,100,450,3 GM
+189,"Anafeli Lipstick n ° 33C - Color Aubergine,3GM",10,100,450,3 GM
+192,"Real Techniques Base Expert Face Brush, 1GM",11,850,1050,1 GM
+193,"Real Techniques Base Finish Dusl-Ended Expert Sponge,1GM",11,900,1050,1 GM
+194,"Real Techniques Expert Concealer Brush,1GM",11,700,900,1 GM
+196,"Real Techniques Powder Brush,1GM",11,850,1050,1 GM
+197,"Real Techniques Perfect Crease Duo,1GM",11,800,1000,1 GM
+198,"Real Techniques Mini Expert Face Brush,1GM",11,650,850,1 GM
+199,"Cosmod Paris Mega XXL Volume Mascara,6ML",13,350,500,6 ML
+200,"Aroma Hair Color Black,45ML",12,300,550,45 ML
+201,"Aroma Hair Color Dark Blond,45ML",12,300,550,45 ML
+202,"Aroma Hair Color Light Blond,45ML",12,300,550,45 ML
+203,"Vitamin E Face Wash,125ML",6,1050,1400,125 ML
+204,"MAC Lipstick Mini Breathing Fire,1.8GM",3,1200,1400,1.8 GM
+205,"MAC Lipstick Mini Captive,1.8GM",3,1200,1400,1.8 GM
+206,"MAC Lipstick Mini Mehr,1.8GM",3,1200,1400,1.8 GM
+207,"MAC Lipstick Mini Velvet Teddy,1.8GM",3,1200,1400,1.8 GM
+208,"Evoluderm BB Cream 6 in 1 Medium,50ML",14,550,800,50 ML
+209,"Jordana Sweet Cream Matte Liquid Lip Color 01 Crème Brulee,3GM",2,340,700,3 GM
+210,"Jordana Sweet Cream Matte Liquid Lip Color 06 Cherry Cobbler,3GM",2,340,700,3 GM
+211,"Jordana Sweet Cream Matte Liquid Lip Color 07 Tiramisu,3GM",2,340,700,3 GM
+212,"Jordana Sweet Cream Matte Liquid Lip Color 09 Rose Macaron,3GM",2,340,700,3 GM
+213,"Jordana Sweet Cream Matte Liquid Lip Color 10 Sugared Plum,3GM",2,340,700,3 GM
+214,"Jordana Sweet Cream Matte Liquid Lip Color 11 Red Velvet Cake,3GM",2,340,700,3 GM
+215,"Jordana Sweet Cream Matte Liquid Lip Color 26 Currant Jam,3GM",2,340,700,3 GM
+216,"Pink Grapefruit Body Scrub,250ML",6,1000,1650,250 ML
+217,"MILANI Amore Lip Creme – Precious,6GM",4,640,800,6 GM
+218,"MILANI Amore Matte Lip Creme – Amore,6GM",4,640,800,6 GM
+219,"MILANI Amore Matte Lip Creme – Gorgeous,6GM",4,640,800,6 GM
+220,"Milani Amore Matte Lip Creme – Loved,6GM",4,640,800,6 GM
+221,"MILANI Amore Matte Lip Creme- Devotion,6GM",4,640,800,6 GM
+222,"Anafeli Paris Liquid Matte Lipstick 06,7ML",10,350,450,7 ML
+223,"Anafeli Paris Liquid Matte Lipstick 07,7ML",10,350,450,7 ML
+224,"Anafeli Paris Liquid Matte Lipstick 12,7ML",10,350,450,7 ML
+225,"Anafeli Paris Liquid Matte Lipstick 16,7ML",10,350,450,7 ML
+226,"Anafeli Paris Liquid Matte Lipstick 23,7ML",10,350,450,7 ML
+227,"M.A.C Studio Fix Powder Plus Foundation- NC 20,15GM",3,3250,3800,15 GM
+228,"Innisfree My Real Squeeze Sheet Mask EX Rice, 20ml",21,115,150,20ml
+235,"Innisfree my real squeeze mask Aloe Vera, 20ml",21,115,150,20ml
+236,"Innisfree My Real Squeeze sheet Mask EX Rose, 20ml",21,115,150,20ml
+237,"Innisfree my real squeeze Sheet mask Acai Berry, 20ml",21,115,150,20ml
+238,"Innisfree my real squeeze mask Honey,20ml",21,115,150,20ml
+239,"Innisfree my real squeeze mask pomegranate, 20ml",21,115,150,20ml
+240,"Nature Republic Soothing & Moisture Aloe Vera 92% Soothing Gel, 300ml",24,580,1000,300ml
+241,"Innisfree jeju volcanic pore clay mask, 100ml",21,1350,1800,100ml
+242,"Innisfree My Real Sheet Mask Bamboo, 20ml",21,115,150,20ml
+243,"Innisfree My Real Sheet Mask Broccoli, 20ml",21,115,150,20ml
+244,"Innisfree My Real Sheet Mask Fig, 20ml",21,115,150,20ml
+245,"Innisfree My Real sheet mask Tea Tree, 20ml",21,115,150,20ml
+246,"The Face Shop jeju aloe ice, 300ml",27,550,1000,300ml
+247,"9 Wishes Miracle White Ampule Serum, 25ml",16,1400,1500,25ml
+248,"Ample N Acne Shot  Ampoule, 30ml",17,1400,1500,30ml
+249,"Ample N Hyaluronshot Ampoule, 30ml",17,1100,1200,30ml
+250,"AMPLE N VC Shot Ampoule, 30ml",17,1500,1600,30ml
+251,"Clean it Zero Cleansing Balm Original (new),100ml",18,1600,1700,100ml
+252,"COSRX AHA/BHA CLARIFYING TREATMENT TONER , 150ml",19,1200,1300,150ml
+253,"COSRX BHA BLACKHEAD POWER LIQUID, 100ml",19,1500,1600,100ml
+254,"COSRX Low pH Good Morning Gel Cleanser, 150ml",19,1100,1200,150ml
+255,"COSRX Ultimate Moisturizing Honey Overnight Mask (Renew), 60ml",19,1300,1400,60ml
+256,"COSRX Galactomyces 95 Tone Balancing Essence, 100ml",19,1600,1700,100ml
+257,"BRIGHT COMPLEX INTENCE NOURSHING SHAMPOO, 100ml",20,650,750,100ml
+258,"CP-1 ANTI HAIRLOSS SCALP INFUSION SHAMPOO, 250ml",20,1300,1400,250ml
+259,"Intensive Long Lasting Sunscreen SPF50+ PA++++, 50ml",21,1300,1400,50ml
+260,"Intensive Triple Care Sunscreen, 50ml",21,1300,1400,50ml
+261,"No sebum Mineral powder,5g",21,500,600,5g
+262,"all around safe block soft finish sun milk, 70ml",23,1300,1400,70ml
+263,"Some BY Mi Galactomyces Vitamin C Serum, 30ml",26,1280,1700,30ml
+264,"Innisfree foot scrub wash, 100ml",21,850,1200,100ml
+265,"innisfree foot spray, 100ml",21,850,1200,100ml
+266,"Innisfree jeju volcanic pore cleansing foam, 150ml",21,1180,1400,150ml
+267,"Innisfree jeju volcanic color clay mask hydrating, 70ml",21,1050,1300,70ml
+268,"Innisfree jeju volcanic color clay mask purifying, 70ml",21,1050,1300,70ml
+269,"Innisfree perfect fresh heel tok gel cream, 30ml",21,750,1000,30ml
+270,"Innisfree super volcanic stick mask 2X, 27g",21,1150,1400,27g
+271,"Innisfree white pore facial cleanser, 150ml",21,1280,1400,150ml
+272,"MISSHA flash up sun SPF50+, 50ml",23,1180,1300,50ml
+273,"Time Revolution The First Treatment Essence Rx New, 150ml",23,2750,2850,150ml
+274,"Black sugar mask wash off, 100g",25,750,850,100g
+275,"Black Sugar Perfect First Serum2X Light (skin-brightening and Anti-wrinkle Effects), 120 ml",25,2100,2200,120ml
+276,"Egg White Perfect Pore Cleansing Foam, 150ml",25,900,1000,150ml
+277,"Egg white pore Mask, 100g",25,850,950,100g
+278,Premium Tomato Whitening Essence 50g,25,1500,1600,50g
+279,"Yuja Water C Whitening ampoule in serum 2X, 50ml",25,1700,1800,50ml
+280,"Rice Mask Wash Off, 100g",25,900,1000,100g
+281,"AHA.BHA.PHA 30 Days Miracle Cream, 60ml",26,1500,1600,60ml
+282,"AHA.BHA.PHA 30 Days Miracle Serum, 50ml",26,1400,1500,50ml
+283,"AHA.BHA.PHA 30 Days Miracle Toner, 150ml",26,1400,1500,150ml
+284,Snail Truecica Miracle Repair Serum 50ml,26,1800,1900,50ml
+285,V10 Vitamin Tone-Up Cream 50ml,26,1350,1450,50ml
+286,AHA.BHA.PHA 14DAYS Super miracle Spot All Kill Cream,26,1250,1350,30ml
+287,"AHA.BHA.PHA 30 Days Miracle Foam, 100ml",26,1250,1350,100ml
+288,Snail Truecica Miracle Repair Toner 135ml,26,1600,1700,135ml
+289,YUJA NIACIN 30DAYS BLEMISH CARE SERUM 50ML,26,1400,1500,50ml
+290,Cleansing Light Oil (2019) 150ml,27,1300,1400,150ml
+291,"Innisfree loss care scalp scaler, 45ml",21,1250,1400,45ml
+292,"Missha perfect cover BB cream shade no 23, 50g",23,1350,1500,50g
